@@ -1,8 +1,7 @@
 
 # Lambda expression to C function
 
-
-
+This appliation converts a simple lambda expression into a C language function. It is written in LEX and YACC and compiled in windows using bison and flex. Provided here are final c files which can be compiled together to produce an executable and run the program.
 
 
 
